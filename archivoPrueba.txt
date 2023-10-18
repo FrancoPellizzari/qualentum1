@@ -3,3 +3,6 @@ creo un archivo
 estoy modificando el archivo para subirlo desde ramaDos
 
 modifico el archivo para hacer un comit y luego borrarlo
+
+modifico para borrar el commit con la ramaTres
+
